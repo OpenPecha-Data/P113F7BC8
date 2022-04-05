@@ -1,0 +1,31 @@
+id: P113F7BC8
+initial_creation_type: ocr
+source_metadata:
+  work_id: http://purl.bdrc.io/resource/WA1KG483
+  instance_id: http://purl.bdrc.io/resource/IE1KG483
+  collection_id: http://purl.bdrc.io/resource/PR0ET009
+  language_id: http://purl.bdrc.io/resource/LangBo
+  title:
+    bo:
+    - གྲུབ་དབང་ཐུབ་བསྟན་འཕེལ་རྒྱས་ཀྱི་རྣམ་ཐར།
+  alt_title:
+    zh-latn-pinyin-x-ndia:
+    - kan bu tu deng beng jie zhuan/
+  author: http://purl.bdrc.io/resource/P00KG08369
+  publisher: UCB-OCR
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: false
+  volumes:
+    0a333eea46504101b4abc25b773fc1f6:
+      title: པོད ༡་གྲུབ་དབང་ཐུབ་བསྟན་འཕེལ་རྒྱས་ཀྱི་རྣམ་ཐར།
+      volume_number: 1
+      base_file: UT1KG483_I1KG485_0000.txt
+      reference: http://purl.bdrc.io/resource/VL79749387407C765A
+      image_group: I1KG485
+      quality: Low
+  reproductionOf:
+  - http://purl.bdrc.io/resource/MW1KG483
+  - http://purl.bdrc.io/resource/W1KG483
+  ocr_software: Namsel
+created_at: '2021-12-22T10:43:43.094629'
+last_modified_at: '2021-12-22T10:43:43.094635'
